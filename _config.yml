@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Wang's Space"
-description              : "Hello World. "
+description              : # "Hello World. "
 repository               : "wangkai-tech23/wangkai-tech23.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -27,7 +27,7 @@ author:
   location         : "Weihai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=32VD4kwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=32VD4kwAAAAJ"
   email            : "dr.wangkai@hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
