@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 💻 About Me
 I am a Special-Term Professor at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was a postdoc researcher in computer science and technology with Tsinghua University [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019. I serve as a Senior Member of the China Computer Federation (CCF).
 
 My research interest includes Cyber Physical Systems Security (CPSSEC) and lightweight AI security models.
@@ -168,7 +168,7 @@ Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
   
 [Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-# Academic Reference
+# 📖 Academic Reference
 
 - [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [中国计算机学会计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)
