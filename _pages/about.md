@@ -160,7 +160,7 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Operators of Preference Composition for CP-nets** 
