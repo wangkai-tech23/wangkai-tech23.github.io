@@ -28,7 +28,7 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 <!-- ######################################################### -->
 
-**GNN-based Advanced Feature Integration for ICS Anomaly Detection** 
+- **GNN-based Advanced Feature Integration for ICS Anomaly Detection** 
   
 *ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), [DOI](https://doi.org/10.1145/3620676), 2023*
 
@@ -38,7 +38,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 <!-- ######################################################### -->
 
-**Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
+- **Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
   
 *Pattern Recognition (**PR**), vol. 141, Article 109661, Sept. 2023*
 
@@ -48,7 +48,7 @@ Shuaiyi L(y)u, **Kai Wang\***,, Liren Zhang, Bailing Wang\*
 
 <!-- ######################################################### -->
 
-**Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
+- **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
 *IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
 
@@ -160,9 +160,6 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.png' alt="sym" width="50%"></div>
-<div class='paper-box-text' markdown="1">
-
 **Operators of Preference Composition for CP-nets** 
   
 *Expert Systems with Applications, vol. 86: 32-41, Nov. 2017*
@@ -170,5 +167,3 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
   
 [Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
