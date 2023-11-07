@@ -30,6 +30,30 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 - [中国计算机学会计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)
 - [中国自动化学会推荐学术期刊目录（试行）](http://imap.caa.org.cn/article/266/2596.html)
 
+# 📝 arXiv e-Print 
+
+## <span style="color:DarkBlue">**2023**</span>
+
+<!-- ######################################################### -->
+
+**StatGraph: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages**
+  
+*<span style="color:DarkRed">arXiv XXXX</span>, 2023*
+
+**Kai Wang\***, Qiguang Jiang, Bailing Wang\*, Yongzheng Zhang, Yulei Wu
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**
+  
+*<span style="color:DarkRed">arXiv XXXX</span>, 2023*
+
+Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 # 📝 Publications 
 
 ## <span style="color:DarkBlue">**2023**</span>
