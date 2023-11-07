@@ -34,6 +34,6 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
-Paper \| Video \| code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](collections/2023_tits/tits2023.pdf) \| Code \| BibTex \ <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
