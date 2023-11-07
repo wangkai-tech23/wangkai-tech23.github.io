@@ -18,9 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Special-Term Professor at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was  a postdoc researcher at the [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019.
+I am a Special-Term Professor at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was a postdoc researcher in computer science and technology with Tsinghua University [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019. I serves as a Senior Member of the China Computer Federation (CCF).
 
-My research interest includes CPSSEC and lightweight AI security models.
+My research interest includes Cyber Physical Systems Security (CPSSEC) and lightweight AI security models.
+
+# Academic Reference
+
+- [中国计算机学会推荐国际学术会议和期刊目录](https://doi.org/10.1145/3620676](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [中国自动化学会推荐学术期刊目录（试行）](http://imap.caa.org.cn/article/266/2596.html)
+- [中国计算机学会计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)
 
 # 📝 Publications 
 
