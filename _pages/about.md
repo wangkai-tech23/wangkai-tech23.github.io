@@ -35,5 +35,3 @@ My research interest includes CPSSEC and lightweight AI security models.
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
 [Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
