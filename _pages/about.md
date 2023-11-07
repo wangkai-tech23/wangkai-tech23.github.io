@@ -25,8 +25,8 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 # Academic Reference
 
 - [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [中国自动化学会推荐学术期刊目录（试行）](http://imap.caa.org.cn/article/266/2596.html)
 - [中国计算机学会计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)
+- [中国自动化学会推荐学术期刊目录（试行）](http://imap.caa.org.cn/article/266/2596.html)
 
 # 📝 Publications 
 
@@ -50,7 +50,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
-[Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -60,7 +60,7 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
 
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
-[Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2022**</span>
 
@@ -72,7 +72,7 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
 
 Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
-[Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2021**</span>
 
@@ -84,7 +84,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 
 Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
-[Paper](papers/2021-IEEE TNSM-PA-Cache_Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2021-IEEE TNSM-PA-Cache_Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2020**</span>
 
@@ -96,7 +96,7 @@ Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
 
 **Kai Wang**, Dongchao Guo\*, Wei Quan
   
-[Paper](papers/2020-IEEE JSYST-Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2020-IEEE JSYST-Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -106,7 +106,7 @@ Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
 
 Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
-[Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -116,7 +116,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xiangrong Tong
   
-[Paper](papers/2020-INS-Shape-optimizing mesh warping method for stereoscopic panorama stitching.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2020-INS-Shape-optimizing mesh warping method for stereoscopic panorama stitching.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2019**</span>
 
@@ -128,7 +128,7 @@ Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xi
 
 **Kai Wang**, Wei Quan\*, Nan Cheng, Mingyuan Liu, Yu Liu, H. Anthony Chan
   
-[Paper](papers/2019-ACM TOIT.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2019-ACM TOIT.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -138,7 +138,7 @@ Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xi
 
 Dongchao Guo, Jiaqing Dong, **Kai Wang\***
   
-[Paper](papers/2019-INS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2019-INS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2018**</span>
 
@@ -150,7 +150,7 @@ Dongchao Guo, Jiaqing Dong, **Kai Wang\***
 
 **Kai Wang**, Hao Yin\*, Wei Quan, Geyong Min
   
-[Paper](papers/2018-IEEE MNET.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2018-IEEE MNET.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -160,7 +160,7 @@ Dongchao Guo, Jiaqing Dong, **Kai Wang\***
 
 Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
   
-[Paper](papers/2018-Yin_Guo_Wang_et_al-IEEE_Network.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2018-Yin_Guo_Wang_et_al-IEEE_Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2017**</span>
 
@@ -172,4 +172,4 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 
 Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
   
-[Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
