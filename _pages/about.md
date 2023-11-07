@@ -42,7 +42,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
   
 *Pattern Recognition, vol. 141, Article 109661, Sept. 2023*
 
-Shuaiyi L(y)u, **Kai Wang\***,, Liren Zhang, Bailing Wang\*
+Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
