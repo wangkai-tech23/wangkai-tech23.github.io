@@ -160,6 +160,9 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 **Operators of Preference Composition for CP-nets** 
   
 *Expert Systems with Applications, vol. 86: 32-41, Nov. 2017*
@@ -167,3 +170,5 @@ Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
 Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
   
 [Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
