@@ -24,7 +24,7 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 # 📝 Publications 
 
-<span style="color:red">##  **2023**</span>
+<span style="color:red">**2023**</span>
 
 <!-- ######################################################### -->
 
