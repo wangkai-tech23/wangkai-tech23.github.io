@@ -24,11 +24,11 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 # 📝 Publications 
 
-## <span style="color🏁">**2023**</span>
+## <span style="color:red">**2023**</span>
 
 <!-- ######################################################### -->
 
-<span style="color📘">**GNN-based Advanced Feature Integration for ICS Anomaly Detection**</span> 
+<span style="color:blue">**GNN-based Advanced Feature Integration for ICS Anomaly Detection**</span> 
   
 *ACM Transactions on Intelligent Systems and Technology, [DOI](https://doi.org/10.1145/3620676), 2023*
 
