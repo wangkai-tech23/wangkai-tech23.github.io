@@ -34,7 +34,7 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
-[Paper](papers/2023-ACM TIST-GNN-based Advanced Feature Integration for ICS Anomaly Detection.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](papers/2023-ACM TIST-GNN-based Advanced Feature Integration for ICS Anomaly Detection.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
