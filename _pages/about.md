@@ -25,7 +25,7 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 # 📖 Academic Reference
 
-- [中科院分区]（https://www.letpub.com.cn/index.php?page=journalapp）
+- [中科院分区](https://www.letpub.com.cn/index.php?page=journalapp)
 - [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [中国计算机学会计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/ccftjgjxskwml/)
 - [中国自动化学会推荐学术期刊目录（试行）](http://imap.caa.org.cn/article/266/2596.html)
