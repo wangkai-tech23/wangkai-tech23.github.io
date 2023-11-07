@@ -30,7 +30,7 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection** 
   
-*ACM Transactions on Intelligent Systems and Technology (**ACM TIST**), [DOI](https://doi.org/10.1145/3620676), 2023*
+*ACM Transactions on Intelligent Systems and Technology, [DOI](https://doi.org/10.1145/3620676), 2023*
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
@@ -40,7 +40,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 **Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
   
-*Pattern Recognition (**PR**), vol. 141, Article 109661, Sept. 2023*
+*Pattern Recognition, vol. 141, Article 109661, Sept. 2023*
 
 Shuaiyi L(y)u, **Kai Wang\***,, Liren Zhang, Bailing Wang\*
   
@@ -50,7 +50,7 @@ Shuaiyi L(y)u, **Kai Wang\***,, Liren Zhang, Bailing Wang\*
 
 **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
-*IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
+*IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
 
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
@@ -62,7 +62,7 @@ Shuaiyi L(y)u, **Kai Wang\***,, Liren Zhang, Bailing Wang\*
 
 **Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems** 
   
-*Expert Systems with Applications (**ESWA**), vol. 209, Article 118345, Dec. 2022*
+*Expert Systems with Applications, vol. 209, Article 118345, Dec. 2022*
 
 Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
@@ -74,7 +74,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 
 **PA-Cache: Evolving Learning-Based Popularity- Aware Content Caching in Edge Networks** 
   
-*IEEE Transactions on Network and Service Management (**IEEE TNSM**), vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
+*IEEE Transactions on Network and Service Management, vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
 
 Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
@@ -118,7 +118,7 @@ Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xi
 
 **Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets** 
   
-*ACM Transactions on Internet Technology (**ACM TOIT**), vol. 19, no. 4, Article 50, Nov. 2019*
+*ACM Transactions on Internet Technology, vol. 19, no. 4, Article 50, Nov. 2019*
 
 **Kai Wang**, Wei Quan\*, Nan Cheng, Mingyuan Liu, Yu Liu, H. Anthony Chan
   
