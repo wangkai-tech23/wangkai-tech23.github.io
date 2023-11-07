@@ -24,13 +24,13 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 # 📝 Publications 
 
-## <span style="color:red">**2023**</span>
+## <span style="color:blue">**2023**</span>
 
 <!-- ######################################################### -->
 
-<span style="color:blue">**GNN-based Advanced Feature Integration for ICS Anomaly Detection**</span> 
+**GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
-*ACM Transactions on Intelligent Systems and Technology, [DOI](https://doi.org/10.1145/3620676), 2023*
+*<span style="color:brown">ACM Transactions on Intelligent Systems and Technology</span> , [DOI](https://doi.org/10.1145/3620676), 2023*
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
@@ -40,7 +40,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 **Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
   
-*Pattern Recognition, vol. 141, Article 109661, Sept. 2023*
+*<span style="color:brown">Pattern Recognition</span>, vol. 141, Article 109661, Sept. 2023*
 
 Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
