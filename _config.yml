@@ -25,12 +25,12 @@ author:
   avatar           : "images/wangkai.png"
   bio              : "Harbin Institute of Technology"
   location         : "Weihai, China"
-  employer         : "http://homepage.hit.edu.cn/CSwangkai"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=32VD4kwAAAAJ"
   email            : "dr.wangkai@hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://homepage.hit.edu.cn/CSwangkai"
   bitbucket        :
   codepen          :
   dribbble         :
