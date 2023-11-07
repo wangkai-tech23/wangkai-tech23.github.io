@@ -6,11 +6,11 @@ main:
   #- title: "News"
   #  url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Academic Reference"
     url: "/#-Academic-Reference"
+    
+  - title: "Publications"
+    url: "/#-publications"
 
   #- title: "Honors and Awards"
   #  url: "/#-honors-and-awards"
