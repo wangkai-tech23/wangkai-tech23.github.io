@@ -30,7 +30,7 @@ My research interest includes CPSSEC and lightweight AI security models.
 
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
-*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span> , [DOI](https://doi.org/10.1145/3620676), 2023*
+*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, [DOI](https://doi.org/10.1145/3620676), 2023*
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
@@ -50,43 +50,43 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
 
 **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
-*IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
 
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
 [Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2022**
+## <span style="color:DarkBlue">**2022**</span>
 
 <!-- ######################################################### -->
 
 **Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems** 
   
-*Expert Systems with Applications, vol. 209, Article 118345, Dec. 2022*
+*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 209, Article 118345, Dec. 2022*
 
 Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2021**
+## <span style="color:DarkBlue">**2021**</span>
 
 <!-- ######################################################### -->
 
 **PA-Cache: Evolving Learning-Based Popularity- Aware Content Caching in Edge Networks** 
   
-*IEEE Transactions on Network and Service Management, vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
 
 Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
 [Paper](papers/2021-IEEE TNSM-PA-Cache_Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2020**
+## <span style="color:DarkBlue">**2020**</span>
 
 <!-- ######################################################### -->
 
 **Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model** 
   
-*IEEE Systems Journal, vol. 14, no. 2, pp. 1862-1873, Jun. 2020*
+*<span style="color:DarkRed">IEEE Systems Journal</span>, vol. 14, no. 2, pp. 1862-1873, Jun. 2020*
 
 **Kai Wang**, Dongchao Guo\*, Wei Quan
   
@@ -96,7 +96,7 @@ Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
 
 **InterestFence: Simple but Efficient Way to Counter Interest Flooding Attack** 
   
-*Computers & Security, vol. 88, Article 101628, Jan. 2020*
+*<span style="color:DarkRed">Computers & Security</span>, vol. 88, Article 101628, Jan. 2020*
 
 Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
@@ -106,19 +106,19 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 **Shape-Optimizing Mesh Warping Method for Stereoscopic Panorama Stitching** 
   
-*Information Sciences, vol. 511, pp. 58-73, Feb. 2020*
+*<span style="color:DarkRed">Information Sciences</span>, vol. 511, pp. 58-73, Feb. 2020*
 
 Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xiangrong Tong
   
 [Paper](papers/2020-INS-Shape-optimizing mesh warping method for stereoscopic panorama stitching.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2019**
+## <span style="color:DarkBlue">**2019**</span>
 
 <!-- ######################################################### -->
 
 **Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets** 
   
-*ACM Transactions on Internet Technology, vol. 19, no. 4, Article 50, Nov. 2019*
+*<span style="color:DarkRed">ACM Transactions on Internet Technology</span>, vol. 19, no. 4, Article 50, Nov. 2019*
 
 **Kai Wang**, Wei Quan\*, Nan Cheng, Mingyuan Liu, Yu Liu, H. Anthony Chan
   
@@ -128,19 +128,19 @@ Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xi
 
 **Graph Structure and Statistical Properties of Ethereum Transaction Relationships** 
   
-*Information Sciences, vol. 492, pp. 58-71, Aug. 2019*
+*<span style="color:DarkRed">Information Sciences</span>, vol. 492, pp. 58-71, Aug. 2019*
 
 Dongchao Guo, Jiaqing Dong, **Kai Wang\***
   
 [Paper](papers/2019-INS.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2018**
+## <span style="color:DarkBlue">**2018**</span>
 
 <!-- ######################################################### -->
 
 **Enabling Collaborative Edge Computing for Software Defined Vehicular Networks** 
   
-*IEEE Network, vol. 32, no. 5, pp. 112-117, Sept./Oct. 2018* ***(ESI Top 1% highly cited paper)***
+*<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 5, pp. 112-117, Sept./Oct. 2018* ***(ESI Top 1% highly cited paper)***
 
 **Kai Wang**, Hao Yin\*, Wei Quan, Geyong Min
   
@@ -150,19 +150,19 @@ Dongchao Guo, Jiaqing Dong, **Kai Wang\***
 
 **Hyperconnected Network: A Decentralized Trusted Computing and Networking Paradigm** 
   
-*IEEE Network, vol. 32, no. 1, pp. 112-117, Jan./Feb. 2018*
+*<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 1, pp. 112-117, Jan./Feb. 2018*
 
 Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
   
 [Paper](papers/2018-Yin_Guo_Wang_et_al-IEEE_Network.pdf) \| Code \| BibTex <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## **2017**
+## <span style="color:DarkBlue">**2017**</span>
 
 <!-- ######################################################### -->
 
 **Operators of Preference Composition for CP-nets** 
   
-*Expert Systems with Applications, vol. 86: 32-41, Nov. 2017*
+*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 86: 32-41, Nov. 2017*
 
 Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
   
