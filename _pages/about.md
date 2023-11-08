@@ -48,11 +48,11 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
   
 *<span style="color:DarkRed">arXiv XXXX</span>, 2023*
 
-Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
+Aiheng Zhang, **<span style="color:saddlebrown">Kai Wang\*</span>**, Bailing Wang, Yulei Wu
   
 Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-# 📝 Publications 
+# 📝 Publications
 
 ## <span style="color:DarkBlue">**2023**</span>
 
