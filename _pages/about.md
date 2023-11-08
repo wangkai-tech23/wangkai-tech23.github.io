@@ -100,18 +100,6 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## <span style="color:DarkBlue">**2021**</span>
-
-<!-- ######################################################### -->
-
-**PA-Cache: Evolving Learning-Based Popularity- Aware Content Caching in Edge Networks** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
-
-Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
-  
-[Paper](papers/2021-IEEE TNSM-PA-Cache_Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
 ## <span style="color:DarkBlue">**2020**</span>
 
 <!-- ######################################################### -->
@@ -133,16 +121,6 @@ Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
 Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
 [Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Shape-Optimizing Mesh Warping Method for Stereoscopic Panorama Stitching** 
-  
-*<span style="color:DarkRed">Information Sciences</span>, vol. 511, pp. 58-73, Feb. 2020*
-
-Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xiangrong Tong
-  
-[Paper](papers/2020-INS-Shape-optimizing mesh warping method for stereoscopic panorama stitching.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2019**</span>
 
@@ -177,26 +155,3 @@ Dongchao Guo, Jiaqing Dong, **Kai Wang\***
 **Kai Wang**, Hao Yin\*, Wei Quan, Geyong Min
   
 [Paper](papers/2018-IEEE MNET.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Hyperconnected Network: A Decentralized Trusted Computing and Networking Paradigm** 
-  
-*<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 1, pp. 112-117, Jan./Feb. 2018*
-
-Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
-  
-[Paper](papers/2018-Yin_Guo_Wang_et_al-IEEE_Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-## <span style="color:DarkBlue">**2017**</span>
-
-<!-- ######################################################### -->
-
-**Operators of Preference Composition for CP-nets** 
-  
-*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 86: 32-41, Nov. 2017*
-
-Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
-  
-[Paper](papers/2017-Sun_Liu_Wang-Expert_System_With_Applications.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
