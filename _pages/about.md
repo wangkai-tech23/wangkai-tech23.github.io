@@ -58,6 +58,16 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 <!-- ######################################################### -->
 
+**Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
+
+**Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
+  
+[Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
 *<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, [DOI](https://doi.org/10.1145/3620676), 2023*
@@ -75,16 +85,6 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
-
-**Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
-  
-[Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2022**</span>
 
