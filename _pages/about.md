@@ -32,8 +32,6 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 # 📝 arXiv e-Print 
 
-## <span style="color:DarkBlue">**2023**</span>
-
 <!-- ######################################################### -->
 
 **StatGraph: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages**
