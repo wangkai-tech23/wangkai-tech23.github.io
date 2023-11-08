@@ -44,11 +44,11 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 <!-- ######################################################### -->
 
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**
+**<span style="color:saddlebrown">LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection</span>**
   
 *<span style="color:DarkRed">arXiv XXXX</span>, 2023*
 
-Aiheng Zhang, **<span style="color:saddlebrown">Kai Wang\*</span>**, Bailing Wang, Yulei Wu
+Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
   
 Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
