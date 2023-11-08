@@ -34,7 +34,7 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 <!-- ######################################################### -->
 
-**StatGraph: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages**
+**<span style="color:saddlebrown">StatGraph: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages</span>**
   
 *<span style="color:DarkRed">arXiv XXXX</span>, 2023*
 
@@ -58,7 +58,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 <!-- ######################################################### -->
 
-**Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
+**<span style="color:saddlebrown">Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network</span>** 
   
 *<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
 
@@ -68,7 +68,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 <!-- ######################################################### -->
 
-**GNN-based Advanced Feature Integration for ICS Anomaly Detection**
+**<span style="color:saddlebrown">GNN-based Advanced Feature Integration for ICS Anomaly Detection</span>**
   
 *<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, [DOI](https://doi.org/10.1145/3620676), 2023*
 
@@ -78,7 +78,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 <!-- ######################################################### -->
 
-**Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
+**<span style="color:saddlebrown">Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition</span>** 
   
 *<span style="color:DarkRed">Pattern Recognition</span>, vol. 141, Article 109661, Sept. 2023*
 
@@ -90,7 +90,7 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
 
 <!-- ######################################################### -->
 
-**Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems** 
+**<span style="color:saddlebrown">Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems</span>**
   
 *<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 209, Article 118345, Dec. 2022*
 
@@ -102,7 +102,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 
 <!-- ######################################################### -->
 
-**Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model** 
+**<span style="color:saddlebrown">Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model</span>**
   
 *<span style="color:DarkRed">IEEE Systems Journal</span>, vol. 14, no. 2, pp. 1862-1873, Jun. 2020*
 
@@ -112,7 +112,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 
 <!-- ######################################################### -->
 
-**InterestFence: Simple but Efficient Way to Counter Interest Flooding Attack** 
+**<span style="color:saddlebrown">InterestFence: Simple but Efficient Way to Counter Interest Flooding Attack</span>**
   
 *<span style="color:DarkRed">Computers & Security</span>, vol. 88, Article 101628, Jan. 2020*
 
@@ -124,7 +124,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 <!-- ######################################################### -->
 
-**Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets** 
+**<span style="color:saddlebrown">Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets</span>** 
   
 *<span style="color:DarkRed">ACM Transactions on Internet Technology</span>, vol. 19, no. 4, Article 50, Nov. 2019*
 
@@ -134,7 +134,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 <!-- ######################################################### -->
 
-**Graph Structure and Statistical Properties of Ethereum Transaction Relationships** 
+**<span style="color:saddlebrown">Graph Structure and Statistical Properties of Ethereum Transaction Relationships</span>** 
   
 *<span style="color:DarkRed">Information Sciences</span>, vol. 492, pp. 58-71, Aug. 2019*
 
@@ -146,7 +146,7 @@ Dongchao Guo, Jiaqing Dong, **Kai Wang\***
 
 <!-- ######################################################### -->
 
-**Enabling Collaborative Edge Computing for Software Defined Vehicular Networks** 
+**<span style="color:saddlebrown">Enabling Collaborative Edge Computing for Software Defined Vehicular Networks</span>**
   
 *<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 5, pp. 112-117, Sept./Oct. 2018* ***(ESI Top 1% highly cited paper)***
 
