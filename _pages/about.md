@@ -40,7 +40,7 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 **<span style="color:saddlebrown">Kai Wang\*</span>**, Qiguang Jiang, Bailing Wang\*, Yongzheng Zhang, Yulei Wu
   
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
