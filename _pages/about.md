@@ -50,7 +50,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 Aiheng Zhang, **<span style="color:saddlebrown">Kai Wang\*</span>**, Bailing Wang, Yulei Wu
   
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 # 📝 Publications
 
