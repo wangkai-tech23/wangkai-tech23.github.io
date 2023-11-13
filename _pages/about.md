@@ -23,7 +23,9 @@ I am a Special-Term Professor at School of Computer Science and Technology, [Har
 
 My research interest includes Cyber Physical Systems Security (CPSSEC) and lightweight AI security models.
 
-# 📝 arXiv 
+# 📖 Publications
+
+## <span style="color:DarkBlue">**arXiv e-Print**</span>
 
 <!-- ######################################################### -->
 
@@ -44,8 +46,6 @@ Paper \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class
 Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
   
 Paper \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-# 📖 Publications
 
 ## <span style="color:DarkBlue">**2023**</span>
 
