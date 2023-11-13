@@ -23,7 +23,7 @@ I am a Special-Term Professor at School of Computer Science and Technology, [Har
 
 My research interest includes Cyber Physical Systems Security (CPSSEC) and lightweight AI security models.
 
-# 📝 arXiv e-Print 
+# 📝 arXiv 
 
 <!-- ######################################################### -->
 
