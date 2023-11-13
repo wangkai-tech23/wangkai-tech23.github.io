@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   #- title: "News"
   #  url: "/#-news"
 
-  #- title: "Academic Reference"
-  #  url: "/#-Academic-Reference"
+  - title: "arXiv e-Print"
+    url: "/#-arXiv-e-Print"
     
   - title: "Publications"
     url: "/#-publications"
