@@ -6,8 +6,8 @@ main:
   #- title: "News"
   #  url: "/#-news"
 
-  - title: "arXiv e-Print"
-    url: "/#-arXiv-e-Print"
+  - title: "arXiv"
+    url: "/#-arXiv"
     
   - title: "Publications"
     url: "/#-publications"
