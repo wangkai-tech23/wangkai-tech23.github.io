@@ -6,8 +6,8 @@ main:
   #- title: "News"
   #  url: "/#-news"
 
-  - title: "Academic Reference"
-    url: "/#-Academic-Reference"
+  #- title: "Academic Reference"
+  #  url: "/#-Academic-Reference"
     
   - title: "Publications"
     url: "/#-publications"
