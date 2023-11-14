@@ -31,11 +31,11 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 **Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages**
   
-*<span style="color:rosybrown">arXiv XXXX</span>, 2023*
+*<span style="color:rosybrown">arXiv:2311.07056</span>, 2023*
 
 **Kai Wang\***, Qiguang Jiang, Bailing Wang\*, Yongzheng Zhang, Yulei Wu
   
-Paper \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
