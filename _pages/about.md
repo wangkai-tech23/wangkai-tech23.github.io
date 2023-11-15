@@ -41,11 +41,11 @@ My research interest includes Cyber Physical Systems Security (CPSSEC) and light
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**
   
-*<span style="color:rosybrown">arXiv XXXX</span>, 2023*
+*<span style="color:rosybrown">arXiv:2311.08000</span>, 2023*
 
 Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
   
-Paper \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2311.08000) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2023**</span>
 
