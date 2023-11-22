@@ -63,7 +63,7 @@ Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
 
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
-*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, [DOI](https://doi.org/10.1145/3620676), 2023*
+*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, vol. 14, no. 6, Article 106, pp. 1-32, Nov. 2023*
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
