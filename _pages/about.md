@@ -19,7 +19,7 @@ redirect_from:
 
 # 💻 About Me
 
-I am a Special-Term Professor at School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019. I serve as Member of IEEE and a Senior Member of the China Computer Federation (CCF).
+I am a Special-Term Professor at School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019. I serve as a Member of the IEEE and a Senior Member of the China Computer Federation (CCF).
 
 My research interest is in the area of Cyber Physical Systems Security (CPSSEC), with a focus on topics in Intrusion Detection using Lightweight Deep Learning Models.
 
