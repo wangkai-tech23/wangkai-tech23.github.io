@@ -23,7 +23,7 @@ I am a Special-Term Professor at School of Computer Science and Technology, [Har
 
 My research interest is in the area of Cyber Physical Systems Security (CPSSEC), with a focus on topics in Intrusion Detection using Lightweight Deep Learning Models.
 
-# 📖 Publications
+# 📖 Publications (Since joining HIT)
 
 ## <span style="color:DarkRed">**arXiv e-Print**</span>
 
