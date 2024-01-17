@@ -125,16 +125,6 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
 [Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
-
-**Shape-Optimizing Mesh Warping Method for Stereoscopic Panorama Stitching**
-  
-*<span style="color:DarkRed">Information Sciences</span>, vol. 511, pp. 58-73, Feb. 2020*
-
-Weiqing Yan\*, Guanghui Yue, Jindong Xu, Yanwei Yu, **Kai Wang**, Chang Tang, Xiangrong Tong
-  
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
 ## <span style="color:DarkBlue">**2019**</span>
 
 <!-- ######################################################### -->
@@ -156,37 +146,3 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 Dongchao Guo, Jiaqing Dong, **Kai Wang\***
   
 [Paper](papers/2019-INS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-## <span style="color:DarkBlue">**2018**</span>
-
-<!-- ######################################################### -->
-
-**Enabling Collaborative Edge Computing for Software Defined Vehicular Networks**
-  
-*<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 5, pp. 112-117, Sept./Oct. 2018* ***(ESI Top 1% highly cited paper)***
-
-**Kai Wang**, Hao Yin\*, Wei Quan, Geyong Min
-  
-[Paper](papers/2018-IEEE MNET.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Hyperconnected Network: A Decentralized Trusted Computing and Networking Paradigm**
-  
-*<span style="color:DarkRed">IEEE Network</span>, vol. 32, no. 1, pp. 112-117, Jan./Feb. 2018*
-
-Hao Yin\*, Dongchao Guo, **Kai Wang**, Zexun Jiang, Yongqiang Lyu, Ju Xing
-  
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-## <span style="color:DarkBlue">**2017**</span>
-
-<!-- ######################################################### -->
-
-**Operators of Preference Composition for CP-nets**
-  
-*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 86, pp. 32-41, Nov. 2017*
-
-Xuejiao Sun\*, Jinglei Liu, **Kai Wang**
-  
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
