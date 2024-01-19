@@ -47,6 +47,18 @@ Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
   
 [Paper](https://arxiv.org/abs/2311.08000) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+## <span style="color:DarkBlue">**2024**</span>
+
+<!-- ######################################################### -->
+
+**Computation Cost-driven Offloading Strategy based on Reinforcement Learning for Consumer Devices** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Consumer Electronics</span>, accepted for publication, Jan. 2024*
+
+Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 ## <span style="color:DarkBlue">**2023**</span>
 
 <!-- ######################################################### -->
