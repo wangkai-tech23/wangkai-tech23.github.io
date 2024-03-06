@@ -19,9 +19,7 @@ redirect_from:
 
 # 💻 About Me
 
-I am a Special-Term Professor at School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). I received my B.S. and Ph.D. degree from [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively. Before joined HIT, I was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/) from 2017 to 2019. I serve as a Member of the IEEE and a Senior Member of the China Computer Federation (CCF).
-
-My research interest is in the area of Cyber Physical Systems Security (CPSSEC), with a focus on topics in Intrusion Detection using Lightweight Deep Learning Models.
+Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). He is currently a Professor with the School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). Before joined HIT, he was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/). He has published more than 40 papers in prestigious international journals, including IEEE TITS, IEEE TCE, ACM TOIT, ACM TIST, etc. His research interest is in the area of Cyber Physical Systems Security (CPSSEC), with a focus on topics in Intrusion Detection using Lightweight Deep Learning Models. He is a Member of the IEEE and ACM, and a Senior Member of the China Computer Federation (CCF).
 
 # 📖 Publications (Since joining HIT)
 
