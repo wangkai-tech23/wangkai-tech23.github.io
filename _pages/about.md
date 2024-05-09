@@ -29,7 +29,7 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 **Computation Cost-driven Offloading Strategy based on Reinforcement Learning for Consumer Devices** 
   
-*<span style="color:DarkRed">IEEE Transactions on Consumer Electronics</span>, DOI: 10.1109/TCE.2024.3357459, Jan. 2024*
+*<span style="color:DarkRed">IEEE Transactions on Consumer Electronics</span>, vol. 70, no. 1, pp. 4120-4131, Feb. 2024*
 
 Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
   
