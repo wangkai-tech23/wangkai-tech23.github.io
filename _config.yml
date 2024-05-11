@@ -24,11 +24,11 @@ author:
   name             : "Kai Wang (王凯)"
   avatar           : "images/wangkai.png"
   bio              : "Harbin Institute of Technology"
-  location         : "Weihai, China"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=32VD4kwAAAAJ"
-  email            : "dr.wangkai@hit.edu.cn"
+  email            : # "dr.wangkai@hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "http://homepage.hit.edu.cn/CSwangkai"
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/78/2022-14.html"
+  dblp             : # "https://dblp.org/pid/78/2022-14.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3044-9047"
   pinterest        :
   soundcloud       :
