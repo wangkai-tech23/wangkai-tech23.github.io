@@ -23,6 +23,28 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 # 📖 Publications (Since joining HIT)
 
+## <span style="color:DarkSlateBlue">**Preprints on arXiv**</span>
+
+<!-- ######################################################### -->
+
+**Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages** 
+  
+*<span style="color:DarkRed">arXiv:2311.07056</span>, Nov. 2023*
+
+**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, Yulei Wu 
+  
+[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">arXiv:2311.08000</span>, Nov. 2023*
+
+Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu 
+  
+[Paper](https://arxiv.org/abs/2311.08000) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 ## <span style="color:DarkBlue">**2024**</span>
 
 <!-- ######################################################### -->
