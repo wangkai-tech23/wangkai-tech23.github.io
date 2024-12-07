@@ -61,6 +61,18 @@ Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
 
 <!-- ######################################################### -->
 
+**Multi-agent DRL for edge computing: A real-time proportional compute offloading** 
+  
+*<span style="color:DarkRed">Computer Networks</span>, vol. 252, Article 110665, pp. 1-13, Oct. 2024*
+
+Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
+  
+[Paper](papers/2024-ComNet-Multi-agent DRL for edge computing A real-time proportional compute offloading.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+## <span style="color:DarkBlue">**2023**</span>
+
+<!-- ######################################################### -->
+
 **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
 *<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
