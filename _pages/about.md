@@ -57,8 +57,6 @@ Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
   
 [Paper](papers/2024-IEEE TCE-Computation Cost-Driven Offloading Strategy Based.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-## <span style="color:DarkBlue">**2023**</span>
-
 <!-- ######################################################### -->
 
 **Multi-agent DRL for edge computing: A real-time proportional compute offloading** 
