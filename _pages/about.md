@@ -39,7 +39,7 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">arXiv:2311.08000</span>, Nov. 2023*
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Nov. 2023*
 
 Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu 
   
