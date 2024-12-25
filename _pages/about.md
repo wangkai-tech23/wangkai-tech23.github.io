@@ -45,6 +45,28 @@ Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu
   
 [Paper](https://arxiv.org/abs/2311.08000) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+## <span style="color:DarkBlue">**2025**</span>
+
+<!-- ######################################################### -->
+
+**KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
+  
+*<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025*
+
+Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
+  
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X24006010?via%3Dihub) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**An original model for multi-target learning of logical rules for knowledge graph reasoning** 
+  
+*<span style="color:DarkRed"> Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
+
+Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei
+  
+[Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 ## <span style="color:DarkBlue">**2024**</span>
 
 <!-- ######################################################### -->
