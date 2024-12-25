@@ -41,7 +41,7 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
   
 *<span style="color:DarkRed">arXiv:2311.08000v2</span>, Nov. 2023*
 
-Aiheng Zhang, **Kai Wang\***, Bailing Wang, Yulei Wu 
+Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
