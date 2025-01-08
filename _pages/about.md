@@ -39,13 +39,23 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Nov. 2023*
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, 2024*
 
 Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2025**</span>
+
+<!-- ######################################################### -->
+
+**Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
+  
+*<span style="color:DarkRed">IEEE Internet of Things Journal</span>, 2025, DOI: 10.1109/JIOT.2025.3527694*
+
+**Kai Wang**, Shuaiyi L(y)u\*, Bailing Wang\*, Yongzheng Zhang
+  
+[Paper] \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
