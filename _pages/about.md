@@ -27,13 +27,23 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 <!-- ######################################################### -->
 
+**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
+  
+*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
+
+Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
+
+[Paper](https://arxiv.org/pdf/2501.06997) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages** 
   
 *<span style="color:DarkRed">arXiv:2311.07056</span>, Nov. 2023*
 
 **Kai Wang\***, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, Yulei Wu 
   
-[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2311.07056) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -55,7 +65,7 @@ Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li
 
 **Kai Wang**, Shuaiyi L(y)u\*, Bailing Wang\*, Yongzheng Zhang
   
-[Paper] \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
