@@ -81,7 +81,7 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 
 **An original model for multi-target learning of logical rules for knowledge graph reasoning** 
   
-*<span style="color:DarkRed"> Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
+*<span style="color:DarkRed">Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
 
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei
   
