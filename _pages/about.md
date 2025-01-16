@@ -19,7 +19,7 @@ redirect_from:
 
 # 💻 About Me
 
-Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). He is currently a Professor with the School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). Before joined HIT, he was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/). He has published more than 40 papers in prestigious international journals, including IEEE TITS, IEEE TCE, ACM TOIT, ACM TIST, etc. His current research interest is on applied machine learning for network attacks detection and information forensics. He is a Member of the IEEE and ACM, and a Senior Member of the China Computer Federation (CCF).
+Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](https://www.bjtu.edu.cn/). He is currently a Professor with the School of Computer Science and Technology, [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn). Before joining HIT, he was a postdoc researcher in computer science and technology with [Tsinghua University](https://www.tsinghua.edu.cn/). He has published more than 50 papers in prestigious international journals, including IEEE TITS, IEEE TCE, ACM TOIT, ACM TIST, etc. His current research interest is on intrusion detection technology on sophisticated and concealed cyberattacks (e.g., Advanced Persistent Threats), and trustworthy machine learning. He is a Senior Member of the China Computer Federation (CCF).
 
 # 📖 Publications (Since joining HIT)
 
