@@ -27,6 +27,16 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 <!-- ######################################################### -->
 
+**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
+  
+*<span style="color:DarkRed">arXiv:2311.07056</span>, Mar. 2025*
+
+**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
+  
+[Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
   
 *<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
@@ -54,14 +64,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-**Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages** 
-  
-*<span style="color:DarkRed">arXiv:2311.07056</span>, Nov. 2023*
-
-**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, Yulei Wu 
-  
-[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
