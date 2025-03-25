@@ -27,13 +27,13 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 <!-- ######################################################### -->
 
-**Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages** 
+**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
   
-*<span style="color:DarkRed">arXiv:2311.07056</span>, Nov. 2023*
+*<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
 
-**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, Yulei Wu 
+**Kai Wang\***, Zhen Sun, Bailing Wang, Qilin Fan, Ming Li, Hongke Zhang 
   
-[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
@@ -49,11 +49,21 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, 2024*
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
 
 Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+**Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning on CAN Messages** 
+  
+*<span style="color:DarkRed">arXiv:2311.07056</span>, Nov. 2023*
+
+**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yongzheng Zhang, Yulei Wu 
+  
+[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
 
 ## <span style="color:DarkBlue">**2025**</span>
 
