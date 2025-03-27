@@ -27,6 +27,16 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 <!-- ######################################################### -->
 
+**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
+  
+*<span style="color:DarkRed">arXiv:XXXX</span>, Mar. 2025*
+
+Huacheng Li, Jingyong Su, **Kai Wang\***
+  
+Paper \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
   
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
