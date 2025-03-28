@@ -33,7 +33,7 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 Huacheng Li, Jingyong Su, **Kai Wang\***
   
-Paper \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
