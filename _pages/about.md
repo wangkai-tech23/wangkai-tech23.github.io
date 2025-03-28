@@ -29,7 +29,7 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 **Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
   
-*<span style="color:DarkRed">arXiv:XXXX</span>, Mar. 2025*
+*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
 
 Huacheng Li, Jingyong Su, **Kai Wang\***
   
