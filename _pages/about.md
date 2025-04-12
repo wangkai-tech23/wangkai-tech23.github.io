@@ -109,6 +109,16 @@ Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei
   
 [Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+<!-- ######################################################### -->
+
+**DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, 2025, DOI: 10.1109/TNSM.2025.3559610*
+
+Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
+  
+[Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 ## <span style="color:DarkBlue">**2024**</span>
 
 <!-- ######################################################### -->
