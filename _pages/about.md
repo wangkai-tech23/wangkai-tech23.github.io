@@ -81,6 +81,16 @@ Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li
 
 <!-- ######################################################### -->
 
+**Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
+
+**Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
   
 *<span style="color:DarkRed">IEEE Internet of Things Journal</span>, 2025, DOI: 10.1109/JIOT.2025.3527694*
