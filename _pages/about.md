@@ -111,16 +111,6 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 
 <!-- ######################################################### -->
 
-**An original model for multi-target learning of logical rules for knowledge graph reasoning** 
-  
-*<span style="color:DarkRed">Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
-
-Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei
-  
-[Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, 2025, DOI: 10.1109/TNSM.2025.3559610*
