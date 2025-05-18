@@ -23,60 +23,6 @@ Kai Wang received the B.S. and Ph.D. degrees from [Beijing Jiaotong University](
 
 # 📖 Publications (Since joining HIT)
 
-## <span style="color:DarkSlateBlue">**Preprints on arXiv**</span>
-
-<!-- ######################################################### -->
-
-**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
-  
-*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
-
-Huacheng Li, Jingyong Su, **Kai Wang\***
-  
-[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
-  
-*<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
-
-**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
-  
-[Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
-  
-*<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
-
-**Kai Wang\***, Zhen Sun, Bailing Wang, Qilin Fan, Ming Li, Hongke Zhang 
-  
-[Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
-  
-*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
-
-Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
-
-[Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
-
-Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
-  
-[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
 ## <span style="color:DarkBlue">**2025**</span>
 
 <!-- ######################################################### -->
@@ -111,6 +57,46 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 
 <!-- ######################################################### -->
 
+**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
+  
+*<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
+
+**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
+  
+[Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
+  
+*<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
+
+**Kai Wang\***, Zhen Sun, Bailing Wang, Qilin Fan, Ming Li, Hongke Zhang 
+  
+[Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
+  
+*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
+
+Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
+
+[Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
+  
+*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
+
+Huacheng Li, Jingyong Su, **Kai Wang\***
+  
+[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
   
 *<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025*
@@ -130,6 +116,16 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 [Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ## <span style="color:DarkBlue">**2024**</span>
+
+<!-- ######################################################### -->
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
+
+Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
+  
+[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 <!-- ######################################################### -->
 
