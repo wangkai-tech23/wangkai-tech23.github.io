@@ -81,6 +81,16 @@ Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li
 
 <!-- ######################################################### -->
 
+**Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, 2025, DOI: Accepted for publication*
+
+Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
+  
+Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
 **Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
