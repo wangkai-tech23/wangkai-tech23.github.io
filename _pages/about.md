@@ -19,7 +19,7 @@ redirect_from:
 
 # 💻 About Me
 
-Kai Wang is is a full Professor with [School of Computer Science and Technology](https://cst.hitwh.edu.cn/wlkjaq_5959/list.htm) (Weihai 264209) and with [Faculty of Computing](https://computing.hit.edu.cn/11447/list.htm) (Harbin 150001), [Harbin Institute of Technology](https://www.hit.edu.cn/), China.
+Kai Wang is a full Professor with [School of Computer Science and Technology](https://cst.hitwh.edu.cn/wlkjaq_5959/list.htm) (Weihai 264209) and with [Faculty of Computing](https://computing.hit.edu.cn/11447/list.htm) (Harbin 150001), [Harbin Institute of Technology](https://www.hit.edu.cn/), China.
 He received the B.S. and Ph.D. degree from the National Engineering Research Center of Advanced Network Technologies led by [Prof. Hongke Zhang](https://eie.bjtu.edu.cn/faculty/6358.html) (Academician of the Chinese Academy of Engineering, IEEE Fellow), [Beijing Jiaotong University](https://www.bjtu.edu.cn/), in 2009 and 2014, respectively.
 From 2017 to 2019, he was a postdoc researcher in [Tsinghua University](https://www.tsinghua.edu.cn/), China.
 His research interests include trustworthy machine learning, advanced persistent threat (APT) detection, and in-vehicle network security. He has published more than 40 papers in prestigious international journals, including IEEE TSC, IEEE TITS, ACM TOIT, ACM TIST, etc. 
