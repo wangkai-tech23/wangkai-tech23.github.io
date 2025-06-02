@@ -30,16 +30,22 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ---
 
-**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
+**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning**
+
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
+
 **Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
+
 [Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
-**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
+**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems**
+
 *<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
+
 **Kai Wang\***, Zhen Sun, Bailing Wang, Qilin Fan, Ming Li, Hongke Zhang 
+
 [Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
