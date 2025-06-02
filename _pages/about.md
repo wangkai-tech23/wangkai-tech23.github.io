@@ -30,36 +30,6 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 <!-- ######################################################### -->
 
-**Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, 2025, DOI: Accepted for publication*
-
-Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
-  
-Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
-
-**Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
-  
-[Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
-**Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
-  
-*<span style="color:DarkRed">IEEE Internet of Things Journal</span>, vol. 70, no. 1, pp. 4120-4131, June 2025*
-
-**Kai Wang**, Shuaiyi L(y)u\*, Bailing Wang\*, Yongzheng Zhang
-  
-[Paper](https://ieeexplore.ieee.org/abstract/document/10835761) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
   
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
@@ -100,6 +70,34 @@ Huacheng Li, Jingyong Su, **Kai Wang\***
 
 <!-- ######################################################### -->
 
+**Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, 2025, DOI: Accepted for publication*
+
+Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
+  
+Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
+
+**Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
+  
+[Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
+  
+*<span style="color:DarkRed">IEEE Internet of Things Journal</span>, vol. 70, no. 1, pp. 4120-4131, June 2025*
+
+**Kai Wang**, Shuaiyi L(y)u\*, Bailing Wang\*, Yongzheng Zhang
+  
+[Paper](https://ieeexplore.ieee.org/abstract/document/10835761) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 **KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
   
 *<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025*
@@ -117,6 +115,18 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
   
 [Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**KERMIT: Knowledge graph completion of enhanced relation modeling with inverse transformation** 
+  
+*<span style="color:DarkRed">Knowledge-Based Systems</span>, Article 113500, 2025, DOI: https://doi.org/10.1016/j.knosys.2025.113500*
+
+Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
+  
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
 
 ## <span style="color:DarkBlue">**2024**</span>
 
