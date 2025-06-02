@@ -30,8 +30,6 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ---
 
-<!-- ######################################################### -->
-
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
   
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
@@ -41,8 +39,6 @@ His research interests include trustworthy AI and network intrusion detection. H
 [Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
-
-<!-- ######################################################### -->
 
 **ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems** 
   
@@ -54,8 +50,6 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ---
 
-<!-- ######################################################### -->
-
 **TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
   
 *<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
@@ -65,8 +59,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 [Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
-
-<!-- ######################################################### -->
 
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
@@ -78,8 +70,6 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 
 ---
 
-<!-- ######################################################### -->
-
 **Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
@@ -89,8 +79,6 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 [Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
-
-<!-- ######################################################### -->
 
 **Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
   
@@ -110,8 +98,6 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
   
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X24006010?via%3Dihub) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
-
 ---
 
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
@@ -124,8 +110,6 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 
 ---
 
-<!-- ######################################################### -->
-
 **KERMIT: Knowledge graph completion of enhanced relation modeling with inverse transformation** 
   
 *<span style="color:DarkRed">Knowledge-Based Systems</span>, Article 113500, 2025, DOI: https://doi.org/10.1016/j.knosys.2025.113500*
@@ -135,8 +119,6 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
-
-<!-- ######################################################### -->
 
 **An original model for multi-target learning of logical rules for knowledge graph reasoning** 
   
@@ -148,8 +130,6 @@ Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
 
 ---
 
-<!-- ######################################################### -->
-
 **Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
   
 *<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
@@ -158,12 +138,11 @@ Huacheng Li, Jingyong Su, **Kai Wang\***
   
 [Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2024**</span>
 
 ---
-
-<!-- ######################################################### -->
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
@@ -173,7 +152,7 @@ Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **Computation Cost-driven Offloading Strategy based on Reinforcement Learning for Consumer Devices** 
   
@@ -183,7 +162,7 @@ Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
   
 [Paper](papers/2024-IEEE TCE-Computation Cost-Driven Offloading Strategy Based.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **Multi-agent DRL for edge computing: A real-time proportional compute offloading** 
   
@@ -193,10 +172,11 @@ Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
   
 [Paper](papers/2024-ComNet-Multi-agent DRL for edge computing A real-time proportional compute offloading.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2023**</span>
 
-<!-- ######################################################### -->
+---
 
 **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
@@ -206,7 +186,7 @@ Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
   
 [Paper](papers/2023-IEEE TITS-Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
@@ -216,7 +196,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
   
 [Paper](papers/2023-ACM TIST-GNN-based Advanced Feature Integration for ICS Anomaly Detection.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
   
@@ -226,10 +206,11 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2022**</span>
 
-<!-- ######################################################### -->
+---
 
 **Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems**
   
@@ -239,10 +220,11 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2021**</span>
 
-<!-- ######################################################### -->
+---
 
 **PA-Cache: Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks**
   
@@ -252,10 +234,11 @@ Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
 Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2020**</span>
 
-<!-- ######################################################### -->
+---
 
 **Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model**
   
@@ -265,7 +248,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
   
 [Paper](papers/2020-IEEE JSYST-Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **InterestFence: Simple but Efficient Way to Counter Interest Flooding Attack**
   
@@ -275,10 +258,11 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
 [Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
 
 ## <span style="color:DarkBlue">**2019**</span>
 
-<!-- ######################################################### -->
+---
 
 **Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets** 
   
@@ -288,7 +272,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
 [Paper](papers/2019-ACM TOIT.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
-<!-- ######################################################### -->
+---
 
 **Graph Structure and Statistical Properties of Ethereum Transaction Relationships** 
   
