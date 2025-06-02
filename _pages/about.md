@@ -29,7 +29,8 @@ His research interests include trustworthy AI and network intrusion detection. H
 ## <span style="color:DarkBlue">**2025**</span>
 
 <!-- ######################################################### -->
-
+<div class='paper-box-text' markdown="1">
+  
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
   
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
@@ -37,7 +38,7 @@ His research interests include trustworthy AI and network intrusion detection. H
 **Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
   
 [Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
+
 </div>
 
 <!-- ######################################################### -->
