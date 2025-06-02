@@ -60,16 +60,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 <!-- ######################################################### -->
 
-**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
-  
-*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
-
-Huacheng Li, Jingyong Su, **Kai Wang\***
-  
-[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
-<!-- ######################################################### -->
-
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
 *<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, 2025, DOI: Accepted for publication*
@@ -135,6 +125,16 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
   
 [Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+<!-- ######################################################### -->
+
+**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
+  
+*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
+
+Huacheng Li, Jingyong Su, **Kai Wang\***
+  
+[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 
 ## <span style="color:DarkBlue">**2024**</span>
