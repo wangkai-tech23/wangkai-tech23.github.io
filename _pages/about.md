@@ -28,6 +28,8 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ## <span style="color:DarkBlue">**2025**</span>
 
+---
+
 <!-- ######################################################### -->
 
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning** 
@@ -50,6 +52,8 @@ His research interests include trustworthy AI and network intrusion detection. H
   
 [Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
+
 <!-- ######################################################### -->
 
 **TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
@@ -59,6 +63,8 @@ His research interests include trustworthy AI and network intrusion detection. H
 Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
 
 [Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
 
 <!-- ######################################################### -->
 
@@ -70,6 +76,8 @@ Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
 Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
+
 <!-- ######################################################### -->
 
 **Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
@@ -79,6 +87,8 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 **Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
   
 [Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
 
 <!-- ######################################################### -->
 
@@ -90,6 +100,8 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
   
 [Paper](https://ieeexplore.ieee.org/abstract/document/10835761) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
+
 **KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
   
 *<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025*
@@ -100,6 +112,8 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 
 <!-- ######################################################### -->
 
+---
+
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, 2025, DOI: 10.1109/TNSM.2025.3559610*
@@ -107,6 +121,8 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
   
 [Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
 
 <!-- ######################################################### -->
 
@@ -118,6 +134,8 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
   
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+---
+
 <!-- ######################################################### -->
 
 **An original model for multi-target learning of logical rules for knowledge graph reasoning** 
@@ -127,6 +145,8 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
   
 [Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
 
 <!-- ######################################################### -->
 
@@ -140,6 +160,8 @@ Huacheng Li, Jingyong Su, **Kai Wang\***
 
 
 ## <span style="color:DarkBlue">**2024**</span>
+
+---
 
 <!-- ######################################################### -->
 
