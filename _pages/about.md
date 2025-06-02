@@ -128,6 +128,15 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 
 <!-- ######################################################### -->
 
+**An original model for multi-target learning of logical rules for knowledge graph reasoning** 
+  
+*<span style="color:DarkRed">Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
+
+Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
+  
+[Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+
 ## <span style="color:DarkBlue">**2024**</span>
 
 <!-- ######################################################### -->
@@ -159,6 +168,7 @@ Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
 Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
   
 [Paper](papers/2024-ComNet-Multi-agent DRL for edge computing A real-time proportional compute offloading.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 
 ## <span style="color:DarkBlue">**2023**</span>
 
@@ -192,6 +202,7 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2023-Pattern Recognition-Process-Oriented heterogeneous graph learning in GNN-Based ICS anomalous pattern recognition.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+
 ## <span style="color:DarkBlue">**2022**</span>
 
 <!-- ######################################################### -->
@@ -204,6 +215,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
 [Paper](papers/2022-ESWA-Global-local integration for GNN-based anomalous device state detection in ICS.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
+
 ## <span style="color:DarkBlue">**2021**</span>
 
 <!-- ######################################################### -->
@@ -215,6 +227,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
 Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 
 ## <span style="color:DarkBlue">**2020**</span>
 
@@ -237,6 +250,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
 [Paper](papers/2020-COSE-InterestFence_Simple but Efficient Way to Counter Interest Flooding Attack.pdf) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
 
 ## <span style="color:DarkBlue">**2019**</span>
 
