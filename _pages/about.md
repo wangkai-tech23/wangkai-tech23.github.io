@@ -37,6 +37,8 @@ His research interests include trustworthy AI and network intrusion detection. H
 **Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
   
 [Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
 <!-- ######################################################### -->
 
