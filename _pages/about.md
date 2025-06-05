@@ -116,7 +116,7 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 
 Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
   
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125005465) \| [Code](https://github.com/lirt1231/kermit) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -126,7 +126,7 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
   
-[Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| [Code](https://github.com/lirt1231/MPLR) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
