@@ -102,7 +102,7 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
   
-*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, 2025, DOI: 10.1109/TNSM.2025.3559610*
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, 2025, DOI: 10.1109/TNSM.2025.3559610*
 
 Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
   
