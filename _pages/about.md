@@ -82,7 +82,7 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 
 **Anomaly Detection via Semantically Conjugate View Learning on Industrial Temporal Data** 
   
-*<span style="color:DarkRed">IEEE Internet of Things Journal</span>, vol. 70, no. 1, pp. 4120-4131, June 2025*
+*<span style="color:DarkRed">IEEE Internet of Things Journal</span>, vol. 12, no. 11, pp. 15479-15490, June 2025, DOI: 10.1109/JIOT.2025.3527694*
 
 **Kai Wang**, Shuaiyi L(y)u\*, Bailing Wang\*, Yongzheng Zhang
   
