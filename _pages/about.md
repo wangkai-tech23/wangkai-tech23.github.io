@@ -26,7 +26,7 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 # 📖 Publications since joining HIT ( * corresponding author)
 
-## <span style="color:DarkBlue">**arXiv.org e-Print archive**</span>
+## <span style="color:LightSteelBlue">**arXiv e-Print**</span>
 
 ---
 
