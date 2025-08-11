@@ -30,6 +30,16 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ---
 
+**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
+  
+*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
+
+Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
+
+[Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
 **STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning**
 
 *<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
@@ -50,13 +60,13 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 ---
 
-**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
 
-Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
-
-[Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
+  
+[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -67,16 +77,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 Huacheng Li, Jingyong Su, **Kai Wang\***
   
 [Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
-
-Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
-  
-[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
