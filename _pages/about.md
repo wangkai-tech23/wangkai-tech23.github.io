@@ -26,7 +26,7 @@ His research interests include trustworthy AI and network intrusion detection. H
 
 # 📖 Publications since joining HIT ( * corresponding author)
 
-## <span style="color:DarkBlue">**2025**</span>
+## <span style="color:DarkBlue">**arXiv.org e-Print archive**</span>
 
 ---
 
@@ -60,9 +60,33 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 ---
 
+**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
+  
+*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
+
+Huacheng Li, Jingyong Su, **Kai Wang\***
+  
+[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
+
+Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
+  
+[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+## <span style="color:DarkBlue">**2025**</span>
+
+---
+
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
-*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, 2025, DOI: 10.1109/TSC.2025.3577505*
+*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, vol. 18, pp. 2281-2294, Jul.-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
 
 Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
@@ -112,7 +136,7 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 
 **KERMIT: Knowledge graph completion of enhanced relation modeling with inverse transformation** 
   
-*<span style="color:DarkRed">Knowledge-Based Systems</span>, Article 113500, 2025, DOI: https://doi.org/10.1016/j.knosys.2025.113500*
+*<span style="color:DarkRed">Knowledge-Based Systems</span>, vol. 324, Article 113500, Aug. 2025, DOI: https://doi.org/10.1016/j.knosys.2025.113500*
 
 Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
   
@@ -130,27 +154,7 @@ Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
 
 ---
 
-**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
-  
-*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
-
-Huacheng Li, Jingyong Su, **Kai Wang\***
-  
-[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 ## <span style="color:DarkBlue">**2024**</span>
-
----
-
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
-
-Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
-  
-[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
