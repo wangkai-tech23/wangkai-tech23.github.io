@@ -96,7 +96,7 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 
 **Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
   
-*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, 2025, DOI: 10.1109/TNSE.2025.3567671*
+*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, vol. 12, no. 5, pp. 4028-4043, Sept.-Oct. 2025, DOI: 10.1109/TNSE.2025.3567671*
 
 **Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
   
