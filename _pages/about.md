@@ -60,26 +60,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 ---
 
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">arXiv:2311.08000v2</span>, Dec. 2024*
-
-Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
-  
-[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
-  
-*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
-
-Huacheng Li, Jingyong Su, **Kai Wang\***
-  
-[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 ## <span style="color:DarkBlue">**2025**</span>
 
 ---
@@ -101,6 +81,16 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
 **Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
   
 [Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
+
+Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
+  
+[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -151,6 +141,16 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
   
 [Paper](https://link.springer.com/article/10.1007/s10489-024-05966-1) \| [Code](https://github.com/lirt1231/MPLR) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**Advancing CAN Network Security through RBM-Based Synthetic Attack Data Generation for Intrusion Detection Systems** 
+  
+*<span style="color:DarkRed">arXiv:2503.21496</span>, Mar. 2025*
+
+Huacheng Li, Jingyong Su, **Kai Wang\***
+  
+[Paper](https://arxiv.org/abs/2503.21496) \| [Code](https://github.com/wangkai-tech23/CANDataSynthetic) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
