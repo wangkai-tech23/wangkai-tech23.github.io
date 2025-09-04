@@ -88,7 +88,7 @@ Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_p
   
 *<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
 
-Aiheng Zhang, Qiguang Jiang, **Kai Wang\***, Ming Li 
+Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
   
 [Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
