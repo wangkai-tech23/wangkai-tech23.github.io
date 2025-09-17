@@ -66,7 +66,7 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
-*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, vol. 18, pp. 2281-2294, Jul.-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
+*<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, vol. 18, no. 4, pp. 2281-2294, Jul.-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
 
 Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
