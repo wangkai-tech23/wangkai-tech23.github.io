@@ -64,6 +64,16 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 ---
 
+**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Information Forensics and Security</span>, accepted for publication, Sept. 2025*
+
+Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
+  
+Paper \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
 *<span style="color:DarkRed">IEEE Transactions on Services Computing</span>, vol. 18, no. 4, pp. 2281-2294, Jul.-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
