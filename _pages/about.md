@@ -100,7 +100,7 @@ Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
 
 Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
   
-[Paper](https://arxiv.org/abs/2311.08000v2) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/11157921) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
