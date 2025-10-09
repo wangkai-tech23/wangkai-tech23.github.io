@@ -70,7 +70,7 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
   
-Paper \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -80,7 +80,7 @@ Paper \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='s
 
 Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
-Paper \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://ieeexplore.ieee.org/document/11027420) \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
