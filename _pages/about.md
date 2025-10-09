@@ -66,7 +66,7 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 
 **XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
   
-*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20， pp. 10419 - 10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
+*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419 - 10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
 
 Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
   
