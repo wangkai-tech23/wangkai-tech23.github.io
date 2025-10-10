@@ -26,7 +26,27 @@ His research interests include trustworthy AI and network intrusion detection.
 
 # 📖 Publications since joining HIT ( * corresponding author)
 
-## <span style="color:SlateBlue">**arXiv e-Print**</span>
+## <span style="color:SlateBlue">**Early Access/arXiv e-Print**</span>
+
+---
+
+**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, 2025, DOI: 10.1109/TIFS.2025.3616624*
+
+Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
+  
+[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
+
+Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
+  
+[Paper](https://ieeexplore.ieee.org/document/11157921) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -61,26 +81,6 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 ---
 
 ## <span style="color:DarkBlue">**2025**</span>
-
----
-
-**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
-  
-*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, 2025, DOI: 10.1109/TIFS.2025.3616624*
-
-Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
-  
-[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
-
-Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
-  
-[Paper](https://ieeexplore.ieee.org/document/11157921) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
