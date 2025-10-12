@@ -116,7 +116,7 @@ Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
 
 **KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
   
-*<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025*
+*<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025, DOI: 10.1016/j.future.2024.107637*
 
 Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
   
@@ -136,7 +136,7 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 
 **KERMIT: Knowledge graph completion of enhanced relation modeling with inverse transformation** 
   
-*<span style="color:DarkRed">Knowledge-Based Systems</span>, vol. 324, Article 113500, Aug. 2025, DOI: https://doi.org/10.1016/j.knosys.2025.113500*
+*<span style="color:DarkRed">Knowledge-Based Systems</span>, vol. 324, Article 113500, Aug. 2025, DOI: 10.1016/j.knosys.2025.113500*
 
 Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
   
@@ -146,7 +146,7 @@ Haotian Li, Bin Yu, Yuliang Wei, **Kai Wang**, Richard Yi Da Xu, Bailing Wang\*
 
 **An original model for multi-target learning of logical rules for knowledge graph reasoning** 
   
-*<span style="color:DarkRed">Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025*
+*<span style="color:DarkRed">Applied Intelligence</span>, vol. 55, no. 138, pp. 1-19, 2025, DOI: 10.1007/s10489-024-05966-1*
 
 Haotian Li, Bailing Wang, **Kai Wang**, Rui Zhang, Yuliang Wei\*
   
@@ -170,7 +170,7 @@ Huacheng Li, Jingyong Su, **Kai Wang\***
 
 **Computation Cost-driven Offloading Strategy based on Reinforcement Learning for Consumer Devices** 
   
-*<span style="color:DarkRed">IEEE Transactions on Consumer Electronics</span>, vol. 70, no. 1, pp. 4120-4131, Feb. 2024*
+*<span style="color:DarkRed">IEEE Transactions on Consumer Electronics</span>, vol. 70, no. 1, pp. 4120-4131, Feb. 2024, DOI: 10.1109/TCE.2024.3357459*
 
 Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
   
@@ -180,7 +180,7 @@ Rui Zhang, Hui Xia\*, Zijun Chen, Zi Kang, **Kai Wang\***, Wei Gao\*
 
 **Multi-agent DRL for edge computing: A real-time proportional compute offloading** 
   
-*<span style="color:DarkRed">Computer Networks</span>, vol. 252, Article 110665, pp. 1-13, Oct. 2024*
+*<span style="color:DarkRed">Computer Networks</span>, vol. 252, Article 110665, pp. 1-13, Oct. 2024, DOI: 10.1016/j.comnet.2024.110665*
 
 Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
   
@@ -194,7 +194,7 @@ Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
 
 **Analysis of Recent Deep Learning-based Intrusion Detection Methods for In-Vehicle Network** 
   
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023*
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, vol. 24, no. 2, pp. 1843-1854, Feb. 2023, DOI: 10.1109/TITS.2022.3222486*
 
 **Kai Wang**, Aiheng Zhang, Haoran Sun, Bailing Wang\*
   
@@ -204,7 +204,7 @@ Kunkun Jia, Hui Xia\*, Rui Zhang, Yue Sun, **Kai Wang**
 
 **GNN-based Advanced Feature Integration for ICS Anomaly Detection**
   
-*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, vol. 14, no. 6, Article 106, pp. 1-32, Nov. 2023*
+*<span style="color:DarkRed">ACM Transactions on Intelligent Systems and Technology</span>, vol. 14, no. 6, Article 106, pp. 1-32, Nov. 2023, DOI: 10.1145/3620676*
 
 Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wang\*
   
@@ -214,7 +214,7 @@ Shuaiyi Lyu(Lu), **Kai Wang\***,  Yuliang Wei, Hongri Liu, Qilin Fan, Bailing Wa
 
 **Process-Oriented Heterogeneous Graph Learning in GNN-Based ICS Anomalous Pattern Recognition** 
   
-*<span style="color:DarkRed">Pattern Recognition</span>, vol. 141, Article 109661, Sept. 2023*
+*<span style="color:DarkRed">Pattern Recognition</span>, vol. 141, Article 109661, Sept. 2023, DOI: 10.1016/j.patcog.2023.109661*
 
 Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
   
@@ -228,7 +228,7 @@ Shuaiyi L(y)u, **Kai Wang\***, Liren Zhang, Bailing Wang\*
 
 **Global-Local Integration for GNN-based Anomalous Device State Detection in Industrial Control Systems**
   
-*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 209, Article 118345, Dec. 2022*
+*<span style="color:DarkRed">Expert Systems with Applications</span>, vol. 209, Article 118345, Dec. 2022, DOI: 10.1016/j.eswa.2022.118345*
 
 Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
   
@@ -242,7 +242,7 @@ Shuaiyi L(y)u, **Kai Wang**, Liren Zhang, Bailing Wang\*
 
 **PA-Cache: Evolving Learning-Based Popularity-Aware Content Caching in Edge Networks**
   
-*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 18, no. 2, pp. 1746-1757, Jun. 2021*
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 18, no. 2, pp. 1746-1757, Jun. 2021, DOI: 10.1109/TNSM.2021.3053645*
 
 Qilin Fan, Xiuhua Li\*, Jian Li, Qiang He, **Kai Wang**, Junhao Wen
   
@@ -256,7 +256,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 **Analyzing NDN NACK on Interest Flooding Attack via SIS Epidemic Model**
   
-*<span style="color:DarkRed">IEEE Systems Journal</span>, vol. 14, no. 2, pp. 1862-1873, Jun. 2020*
+*<span style="color:DarkRed">IEEE Systems Journal</span>, vol. 14, no. 2, pp. 1862-1873, Jun. 2020, DOI: 10.1109/JSYST.2019.2923841*
 
 **Kai Wang**, Dongchao Guo\*, Wei Quan
   
@@ -266,7 +266,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 **InterestFence: Simple but Efficient Way to Counter Interest Flooding Attack**
   
-*<span style="color:DarkRed">Computers & Security</span>, vol. 88, Article 101628, Jan. 2020*
+*<span style="color:DarkRed">Computers & Security</span>, vol. 88, Article 101628, Jan. 2020, DOI: 10.1016/j.cose.2019.101628*
 
 Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
   
@@ -280,7 +280,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 **Betweenness Centrality Based Software Defined Routing: Observation from Practical Internet Datasets** 
   
-*<span style="color:DarkRed">ACM Transactions on Internet Technology</span>, vol. 19, no. 4, Article 50, Nov. 2019*
+*<span style="color:DarkRed">ACM Transactions on Internet Technology</span>, vol. 19, no. 4, Article 50, Nov. 2019, DOI: 10.1145/3355605*
 
 **Kai Wang**, Wei Quan\*, Nan Cheng, Mingyuan Liu, Yu Liu, H. Anthony Chan
   
@@ -290,7 +290,7 @@ Jiaqing Dong, **Kai Wang\***, Wei Quan, Hao Yin
 
 **Graph Structure and Statistical Properties of Ethereum Transaction Relationships** 
   
-*<span style="color:DarkRed">Information Sciences</span>, vol. 492, pp. 58-71, Aug. 2019*
+*<span style="color:DarkRed">Information Sciences</span>, vol. 492, pp. 58-71, Aug. 2019, DOI: 10.1016/j.ins.2019.04.013*
 
 Dongchao Guo, Jiaqing Dong, **Kai Wang\***
   
