@@ -42,7 +42,7 @@ Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
 
 **Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
   
-*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, accepted*
+*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, DOI: 10.1109/TDSC.2025.3623299*
 
 Shuaiyi L(y)u, **Kai Wang\***, Yang Liu, Bailing Wang*
   
