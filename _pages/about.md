@@ -40,6 +40,16 @@ Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
 
 ---
 
+**Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, accepted*
+
+Shuaiyi L(y)u, **Kai Wang\***, Yang Liu, Bailing Wang*
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
 *<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
