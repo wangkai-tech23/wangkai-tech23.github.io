@@ -30,16 +30,6 @@ His research interests include trustworthy AI and network intrusion detection.
 
 ---
 
-**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
-  
-*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, 2025, DOI: 10.1109/TIFS.2025.3616624*
-
-Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
-  
-[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 **Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
   
 *<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, DOI: 10.1109/TDSC.2025.3623299*
@@ -91,6 +81,16 @@ Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang
 ---
 
 ## <span style="color:DarkBlue">**2025**</span>
+
+---
+
+**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419-10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
+
+Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
+  
+[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
