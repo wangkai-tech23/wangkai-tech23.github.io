@@ -26,60 +26,6 @@ His research interests include trustworthy AI and network intrusion detection.
 
 # 📖 Publications since joining HIT ( * corresponding author)
 
-## <span style="color:SlateBlue">**Early Access/arXiv e-Print**</span>
-
----
-
-**Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
-  
-*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, DOI: 10.1109/TDSC.2025.3623299*
-
-Shuaiyi L(y)u, **Kai Wang\***, Yang Liu, Bailing Wang*
-  
-Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
-
-Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
-  
-[Paper](https://ieeexplore.ieee.org/document/11157921) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**TFLAG: Towards Practical APT Detection via Deviation-Aware Learning on Temporal Provenance Graph** 
-  
-*<span style="color:DarkRed">arXiv:2501.06997</span>, Jan. 2025*
-
-Wenhan Jiang, Tingting Chai, Hongri Liu, **Kai Wang\***, Hongke Zhang 
-
-[Paper](https://arxiv.org/abs/2501.06997) \| [Code](https://github.com/wangkai-tech23/TFLAG) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**STATGRAPH: Effective In-vehicle Intrusion Detection via Multi-view Statistical Graph Learning**
-
-*<span style="color:DarkRed">arXiv:2311.07056v2</span>, Mar. 2025*
-
-**Kai Wang\***, Qiguang Jiang, Bailing Wang, Yulei Wu, Hongke Zhang
-
-[Paper](https://arxiv.org/abs/2311.07056v2) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**ATHENA: An In-vehicle CAN Intrusion Detection Framework Based on Physical Characteristics of Vehicle Systems**
-
-*<span style="color:DarkRed">arXiv:2503.17067</span>, Mar. 2025*
-
-**Kai Wang\***, Zhen Sun, Bailing Wang, Qilin Fan, Ming Li, Hongke Zhang 
-
-[Paper](https://arxiv.org/abs/2503.17067) \| [Code](https://github.com/wangkai-tech23/ATHENA) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 ## <span style="color:DarkBlue">**2025**</span>
 
 ---
@@ -101,6 +47,26 @@ Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
 Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
 [Paper](https://ieeexplore.ieee.org/document/11027420) \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, DOI: 10.1109/TDSC.2025.3623299*
+
+Shuaiyi L(y)u, **Kai Wang\***, Yang Liu, Bailing Wang*
+  
+Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
+
+Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
+  
+[Paper](https://ieeexplore.ieee.org/document/11157921) \| [Code](https://github.com/wangkai-tech23/LiPar) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
