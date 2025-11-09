@@ -34,7 +34,7 @@ His research interests include trustworthy AI and network intrusion detection.
   
 *<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419-10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
 
-Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
+Qiguang jiang, <font color=DarkRed>**Kai Wang\***<font>, Yuliang Wei, Hongri Liu, Bailing Wang
   
 [Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
