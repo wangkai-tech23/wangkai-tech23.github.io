@@ -30,6 +30,16 @@ His research interests include trustworthy AI and network intrusion detection.
 
 ---
 
+**STATGRAPH: Effective In-Vehicle Intrusion Detection via Multi-View Statistical Graph Learning** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, Nov. 2025, accepted for publication*
+
+**Kai Wang\***, Qiguang jiang, Bailing Wang*, Yulei Wu, Hongke Zhang
+  
+[Paper](https://arxiv.org/abs/2311.07056) \| [Code](https://github.com/wangkai-tech23/StatGraph) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
 **XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
   
 *<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419-10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
