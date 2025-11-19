@@ -40,26 +40,6 @@ His research interests include trustworthy AI and network intrusion detection.
 
 ---
 
-**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
-  
-*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419-10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
-
-Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
-  
-[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
-**Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
-  
-*<span style="color:DarkRed">**IEEE Transactions on Services Computing**</span>, vol. 18, no. 4, pp. 2281-2294, July-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
-
-Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
-  
-[Paper](https://ieeexplore.ieee.org/document/11027420) \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 **Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
   
 *<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025 (Early Access), DOI: 10.1109/TDSC.2025.3623299*
@@ -80,6 +60,16 @@ Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang
 
 ---
 
+**XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrastive Learning** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Information Forensics and Security**</span>, vol. 20, pp. 10419-10433, Oct. 2025, DOI: 10.1109/TIFS.2025.3616624*
+
+Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
+  
+[Paper](https://ieeexplore.ieee.org/document/11187312?source=authoralert) \| [Code](https://github.com/wangkai-tech23/XIPHOS) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
 **Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, vol. 12, no. 5, pp. 4028-4043, Sept.-Oct. 2025, DOI: 10.1109/TNSE.2025.3567671*
@@ -87,6 +77,16 @@ Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang
 **Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
   
 [Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
+  
+*<span style="color:DarkRed">**IEEE Transactions on Services Computing**</span>, vol. 18, no. 4, pp. 2281-2294, July-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
+
+Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
+  
+[Paper](https://ieeexplore.ieee.org/document/11027420) \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
@@ -100,16 +100,6 @@ Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang
 
 ---
 
-**KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
-  
-*<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025, DOI: 10.1016/j.future.2024.107637*
-
-Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
-  
-[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X24006010?via%3Dihub) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
   
 *<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, June 2025, DOI: 10.1109/TNSM.2025.3559610*
@@ -117,6 +107,16 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
   
 [Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
+  
+*<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025, DOI: 10.1016/j.future.2024.107637*
+
+Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
+  
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X24006010?via%3Dihub) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
