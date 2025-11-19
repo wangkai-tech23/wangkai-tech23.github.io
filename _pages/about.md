@@ -70,16 +70,6 @@ Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
 
 ---
 
-**Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, vol. 12, no. 5, pp. 4028-4043, Sept.-Oct. 2025, DOI: 10.1109/TNSE.2025.3567671*
-
-**Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
-  
-[Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 **Optimizing Consistency in Distributed Data Services: The CP-Raft Protocol for High-Performance and Fault-Tolerant Replication** 
   
 *<span style="color:DarkRed">**IEEE Transactions on Services Computing**</span>, vol. 18, no. 4, pp. 2281-2294, July-Aug. 2025, DOI: 10.1109/TSC.2025.3577505*
@@ -87,6 +77,16 @@ Qiguang jiang, **Kai Wang\***, Yuliang Wei, Hongri Liu, Bailing Wang
 Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
   
 [Paper](https://ieeexplore.ieee.org/document/11027420) \| [Code](https://github.com/Magnomic/CP-Raft) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**Graph Optimization via Decoupled Edge Tuning for Efficient Industrial Anomaly Detection** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Network Science and Engineering</span>, vol. 12, no. 5, pp. 4028-4043, Sept.-Oct. 2025, DOI: 10.1109/TNSE.2025.3567671*
+
+**Kai Wang**, Shuaiyi L(y)u\*, Yang Liu, Bailing Wang\*
+  
+[Paper](https://ieeexplore.ieee.org/document/10990120) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
