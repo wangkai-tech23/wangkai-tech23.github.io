@@ -62,7 +62,7 @@ Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
 
 **Hierarchical GNN Message Passing for Node-level Anomaly Detection in Industrial Control Systems** 
   
-*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025, DOI: 10.1109/TDSC.2025.3623299*
+*<span style="color:DarkRed">**IEEE Transactions on Dependable and Secure Computing**</span>, 2025 (Early Access), DOI: 10.1109/TDSC.2025.3623299*
 
 Shuaiyi L(y)u, **Kai Wang\***, Yang Liu, Bailing Wang*
   
@@ -72,7 +72,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, Sept. 2025, DOI: 10.1109/TITS.2025.3605465*
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025 (Early Access), DOI: 10.1109/TITS.2025.3605465*
 
 Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
   
