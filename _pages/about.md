@@ -100,16 +100,6 @@ Haiwen Du, **Kai Wang\***, Yulei Wu, Hongke Zhang
 
 ---
 
-**DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
-  
-*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, June 2025, DOI: 10.1109/TNSM.2025.3559610*
-
-Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
-  
-[Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-
----
-
 **KDRSFL: A knowledge distillation resistance transfer framework for defending model inversion attacks in split federated learning** 
   
 *<span style="color:DarkRed">Future Generation Computer Systems</span>, vol. 166, Article 107637, pp. 1-10, May. 2025, DOI: 10.1016/j.future.2024.107637*
@@ -117,6 +107,16 @@ Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
 Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
   
 [Paper](https://www.sciencedirect.com/science/article/pii/S0167739X24006010?via%3Dihub) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+
+---
+
+**DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
+  
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, June 2025, DOI: 10.1109/TNSM.2025.3559610*
+
+Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
+  
+[Paper](https://ieeexplore.ieee.org/document/10962261) \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 
 ---
 
