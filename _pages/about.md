@@ -72,7 +72,7 @@ Paper \| Code <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5o
 
 **LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection** 
   
-*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, 2025, DOI: 10.1109/TITS.2025.3605465*
+*<span style="color:DarkRed">IEEE Transactions on Intelligent Transportation Systems</span>, Sept. 2025, DOI: 10.1109/TITS.2025.3605465*
 
 Aiheng Zhang, Zhen Sun, Qiguang Jiang, **Kai Wang\***, Ming Li, Bailing Wang 
   
@@ -112,7 +112,7 @@ Renlong Chen, Hui Xia\*, **Kai Wang\***, Shuo Xu, Rui Zhang
 
 **DRL-Based Time-Varying Workload Scheduling With Priority and Resource Awareness** 
   
-*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, 2025, DOI: 10.1109/TNSM.2025.3559610*
+*<span style="color:DarkRed">IEEE Transactions on Network and Service Management</span>, vol. 22, no. 3, pp. 2838-2852, June 2025, DOI: 10.1109/TNSM.2025.3559610*
 
 Qifeng Liu, Qilin Fan, Xu Zhang, Xiuhua Li, **Kai Wang**, Qingyu Xiong
   
