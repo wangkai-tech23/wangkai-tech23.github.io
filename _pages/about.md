@@ -32,7 +32,7 @@ His research interests include trustworthy AI and network intrusion detection.
 
 **STATGRAPH: Effective In-Vehicle Intrusion Detection via Multi-View Statistical Graph Learning** 
   
-*<span style="color:DarkRed">**IEEE Transactions on Mobile Computing**</span>, Nov. 2025, accepted for publication*
+*<span style="color:DarkRed">**IEEE Transactions on Mobile Computing**</span>, 2025 (Early Access), DOI: 10.1109/TMC.2025.3636517*
 
 **Kai Wang\***, Qiguang jiang, Bailing Wang*, Yulei Wu, Hongke Zhang
   
